@@ -1,0 +1,5 @@
+com\adobe\cq\query\impl\filters\LoggingFilter.class
+com\adobe\cq\query\HelloService.class
+com\adobe\cq\query\searchService.class
+com\adobe\cq\query\impl\HelloServiceImpl.class
+com\adobe\cq\query\package-info.class

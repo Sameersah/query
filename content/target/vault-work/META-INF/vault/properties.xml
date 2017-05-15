@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>My Project Package</comment>
+<entry key="createdBy">Sameer</entry>
+<entry key="name">query-content</entry>
+<entry key="created">2017-05-14T12:42:18.065+0530</entry>
+<entry key="groupId">com.adobe.cq.query</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">My Company</entry>
+<entry key="description">Maven Multimodule project for My Project.</entry>
+<entry key="artifactId">query-content</entry>
+<entry key="path">/etc/packages/My Company/query-content.zip</entry>
+</properties>
